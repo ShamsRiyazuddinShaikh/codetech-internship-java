@@ -1,3 +1,12 @@
+"COMPANY*: CODTECH IT SOLUTIONS
+"NAME*: SHAMS RIYAZUDDIN SHAIKH
+"INTERN ID*: CT08QNP
+"DOMAIN*: JAVA PROGRAMMING
+"DURATION*: 4 WEEEKS
+"MENTOR*: VAISHALI
+
+
+
 This Java program demonstrates how to interact with text files by reading from, writing to, and modifying them. Whether you're a beginner or an experienced developer, this program is an excellent way to understand file handling in Java. It allows you to learn about file I/O (input/output) operations using Java’s standard libraries, such as FileReader, FileWriter, BufferedReader, and BufferedWriter.
 
 In this program, we will cover:
