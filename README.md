@@ -6,6 +6,8 @@
 "MENTOR*: VAISHALI
 
 
+TASK 1
+
 
 This Java program demonstrates how to interact with text files by reading from, writing to, and modifying them. Whether you're a beginner or an experienced developer, this program is an excellent way to understand file handling in Java. It allows you to learn about file I/O (input/output) operations using Java’s standard libraries, such as FileReader, FileWriter, BufferedReader, and BufferedWriter.
 
@@ -53,6 +55,12 @@ Verify the Changes:
 
 After running the program, open sample.txt to verify the read, written, and modified content.
 
+
+
+
+TASK 2
+
+
 This Java application demonstrates how to consume a public REST API to fetch weather data and display it in a structured format. For this example, we will use the OpenWeatherMap API, which is a popular API that provides real-time weather data for any location. The application fetches the current weather data for a given city and displays it in a structured, easy-to-read format.
 
 The main objective of this program is to show how to:
@@ -87,6 +95,9 @@ Replace API Key: Make sure you replace YOUR_API_KEY with the actual API key you 
 Compile and Run:
 Open a terminal or command prompt.
 Navigate to the project folder where your WeatherApp.java is located.
+
+
+TASK 3
 
 
 This Java application demonstrates how to build a client-server chat application using Java Sockets and Multithreading to handle communication between multiple users. In this chat application:
@@ -137,6 +148,9 @@ Client Class:
 Socket: The client creates a socket to connect to the server at localhost on port 12345.
 Input and Output Streams: The client uses BufferedReader and PrintWriter to send and receive messages from the server.
 Multithreading: A new thread is created to handle incoming messages from the server, while the main thread waits for the user to type a message and sends it to the server.
+
+
+TASK 4
 
 
 This project demonstrates how to build a Recommendation System using Java and Apache Mahout. The system suggests products or content based on user preferences by utilizing Collaborative Filtering techniques.
